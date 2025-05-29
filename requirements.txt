@@ -2,4 +2,7 @@ Django==5.2.1
 djangorestframework
 markdown
 django-filter
-google-generativeai
+google-genai
+django-extensions
+python-decouple
+python-dotenv
