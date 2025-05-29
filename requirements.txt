@@ -1,0 +1,5 @@
+Django==5.2.1
+djangorestframework
+markdown
+django-filter
+google-generativeai
